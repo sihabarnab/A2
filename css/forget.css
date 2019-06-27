@@ -1,0 +1,57 @@
+*{
+	margin: 0px;
+}
+body{
+	 font-family: 'Mali', cursive;
+	 background: url(../img/art.jpg);
+	 background-repeat: no-repeat;
+	  background-size: cover;
+}
+.container {
+    width: 450px;
+    margin: 0 auto;
+    background-color: #e1c27f52;
+    padding-top: 6%;
+}
+.find-section img {
+    width: 116px;
+    margin: auto;
+    display: block;
+    margin-bottom: 42px;
+}
+.find-section {
+    padding: 20%;
+}
+.find-section h4 {
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+.find-section p {
+    font-size: small;
+    padding-bottom: 10px;
+    margin-bottom: 27px;
+}
+.en {
+    width: 91%;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+.search {
+    margin-left: 24%;
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+    padding: 7px;
+    cursor: pointer;
+    border: none;
+}
+
+.cancel {
+    background-color: blue;
+    text-transform: uppercase;
+    color: white;
+    padding: 7px;
+    cursor: pointer;
+    border: none;
+}

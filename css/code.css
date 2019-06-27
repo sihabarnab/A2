@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+}
+body{
+	 font-family: 'Mali', cursive;
+	 background: url(../img/art.jpg);
+	 background-repeat: no-repeat;
+	  background-size: cover;
+}
+.container {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 7%;
+    background-color: #a9a9a959;
+    border-radius: 10px;
+    padding: 66px;
+}
+
+.security h3 {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 30px;
+}
+.security p {
+    text-align: -webkit-auto;
+    font-size: medium;
+    margin-bottom: 22px;
+}
+.ec {
+    margin-left: 70px;
+    width: 50%;
+    padding: 9px;
+    margin-bottom: 30px;
+}
+.con {
+    margin-left: 24%;
+    background: #0000ffa8;
+    color: white;
+    border: none;
+    padding: 9px;
+    text-transform: uppercase;
+}
+.cn {
+    background: blue;
+    color: white;
+    border: none;
+    padding: 9px;
+    padding-right: 20px;
+    text-transform: uppercase;
+}
+.con:hover{
+	box-shadow: 3px 2px 3px white;
+	transition: .8s
+}
+.cn:hover{
+	box-shadow: 4px 2px 3px white;
+	transition: .8s;
+}

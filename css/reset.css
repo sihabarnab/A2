@@ -1,0 +1,59 @@
+*{
+	margin: 0px;
+}
+body{
+	font-family: 'Mali', cursive;
+	background: url(../img/art.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.continer {
+    width: 450px;
+    margin: 0 auto;
+    padding-top: 7%;
+    background: #dcbe7694;
+    border-radius: 10px;
+}
+.reset-section {
+    padding: 20%;
+}
+
+.reset-section h4 {
+    font-size: x-large;
+    margin-bottom: 30px;
+}
+.reset-section p {
+    margin-bottom: 45px;
+    font-size: large;
+}
+.en {
+    width: 89%;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.con {
+    margin-left: 50px;
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    padding: 9px;
+    cursor: pointer;
+}
+.not {
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+    padding: 9px;
+    border: none;
+    cursor: pointer;
+}
+.con:hover {
+    box-shadow: 2px 4px 3px red;
+    transition: .8s;
+}
+.not:hover {
+    box-shadow: 3px 4px 3px red;
+    transition: .8s;
+}

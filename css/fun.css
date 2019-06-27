@@ -1,0 +1,31 @@
+*{
+	margin: 0px;
+}
+
+body {
+    margin: 0 auto;
+    background-color: darkgoldenrod;
+}
+.co {
+    width: 500px;
+    margin: auto;
+    color: red;
+    background-color: chartreuse;
+}
+.cr img {
+    width: 350px;
+    margin: auto;
+    display: block;
+    margin-bottom: 42px;
+    padding-top: 30px;
+}
+.cr a {
+    text-align: center;
+    display: block;
+    font-size: 43px;
+}
+
+.cr p {
+    text-align: center;
+    display: block;
+}

@@ -1,0 +1,51 @@
+*{
+	margin:0px ;
+}
+
+body {
+    font-family: 'Mali', cursive;
+    background: url(../img/art.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 450px;
+    margin: 10% auto;
+}
+.login-section {
+    background-color: cadetblue;
+    padding: 20px;
+}
+.login-section img {
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+}
+.login-section h3 {
+    font-size: 30px;
+    text-align: center;
+    color: yellow;
+    margin: 10px 0px;
+}
+.form-control {
+    width: 90%;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+}
+.btn {
+    background-color: blue;
+    color: antiquewhite;
+    padding: 10px;
+    margin: 10px auto;
+    display:block;
+    border: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+      }
+    
+    
+.btn:hover {
+	    box-shadow: 5px 3px 2px #ffff;
+	    cursor: pointer;
+       }

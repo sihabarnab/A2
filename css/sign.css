@@ -1,0 +1,73 @@
+*{
+	margin: 0px;
+}
+
+body {
+    font-family: 'Mali', cursive;
+    background: url(../img/art.jpg);
+    background-size: cover;
+}
+.container {
+    width: 450px;
+    margin: 30px auto;
+    color: currentColor;
+    background-color: transparent;
+    
+}
+.signup-section {
+    background-color: #dcbe7775;
+    padding: 30px;
+}
+
+.signup-section h3 {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 30px;
+}
+
+.signup-section p {
+    text-align: center;
+    font-size: larger;
+    margin-bottom: 30px;
+}
+.form-control {
+    width: auto;
+    margin-bottom: 30px;
+    padding: 5px;
+}
+.date {
+    padding: 5px;
+    margin-bottom: 27px;
+    width: 43%;
+}
+.form-add {
+    width: 92%;
+    margin-bottom: 30px;
+    padding: 5px;
+}
+.pass {
+    width: 92%;
+    margin-bottom: 25px;
+    padding: 5px;
+}
+.gen {
+    color: #d84316;
+}
+.signup-section h4 {
+    font-size: medium;
+    margin-bottom: 20px;
+}
+.sign {
+    margin: auto;
+    display: block;
+    padding: 14px;
+    background-color: #2037dad4;
+    color: aliceblue;
+    text-transform: uppercase;
+    border: none;
+    transition: .6ss;
+}
+.sign:hover {
+    cursor: pointer;
+    box-shadow: 4px 4px 3px #ffff;
+}
